@@ -43,5 +43,5 @@ This calculator not only performs fundamental arithmetic operations but also ill
 
 ## Output
 
-![Screenshot 2024-06-03 224827](https://github.com/jyoshna08/CODTECH-Internship-Task-1/assets/171473485/90ae5c67-047e-4996-b607-90eeabaa86d6)
+![Screenshot 2024-06-03 233417](https://github.com/jyoshna08/CODTECH-Internship-Task-1/assets/171473485/30e80c56-61e6-42df-936a-95d464355bf4)
 
