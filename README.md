@@ -1,6 +1,6 @@
 # CODTECH-Internship-Task-1
 
-** NAME:** Eswaravaka Jyoshna Reddy
+**NAME:** Eswaravaka Jyoshna Reddy
 **COMPANY:** CODTECH IT SOLUTIONS
 **ID:** CT08DS1534
 **DOMAIN:** Java Programming
