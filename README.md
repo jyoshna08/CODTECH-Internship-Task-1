@@ -40,3 +40,6 @@ In this task, we aim to create a basic calculator in Java that performs four ari
 In this project, i have developed a basic calculator using Java, demonstrating essential programming concepts such as user input handling, arithmetic operations, and conditional statements. The project serves as an excellent introduction to Java programming, providing hands-on experience in building a functional console-based application. By completing this task, we've reinforced our understanding of Java's core features and enhanced our problem-solving skills.
 
 This calculator not only performs fundamental arithmetic operations but also illustrates how to create an interactive program that communicates with users effectively. The skills gained from this project are foundational and will be beneficial for tackling more complex programming challenges in the future.
+
+![Screenshot 2024-06-03 224827](https://github.com/jyoshna08/CODTECH-Internship-Task-1/assets/171473485/90ae5c67-047e-4996-b607-90eeabaa86d6)
+
