@@ -41,5 +41,7 @@ In this project, i have developed a basic calculator using Java, demonstrating e
 
 This calculator not only performs fundamental arithmetic operations but also illustrates how to create an interactive program that communicates with users effectively. The skills gained from this project are foundational and will be beneficial for tackling more complex programming challenges in the future.
 
+## Output Of My Program
+
 ![Screenshot 2024-06-03 224827](https://github.com/jyoshna08/CODTECH-Internship-Task-1/assets/171473485/90ae5c67-047e-4996-b607-90eeabaa86d6)
 
